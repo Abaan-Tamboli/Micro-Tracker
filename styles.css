@@ -1,0 +1,14 @@
+#app {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+#left-container {
+    width: 50%;
+}
+
+#right-container {
+    width: 40%;
+    margin-left: 20px;
+}
